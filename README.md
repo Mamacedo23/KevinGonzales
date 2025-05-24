@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://your-image-link.com/banner.png" alt="Kevin Gonzales Banner" width="80%">
+</p>
+
 <h1 align="center">Hi there! I'm Kevin Gonzales 👋</h1>
 
 <p align="center">
@@ -35,6 +39,9 @@ I'm a **Data Analyst** with a background in Industrial Engineering and hands-on 
 - **🤖 WhatsApp AI Assistant:**  
   Created a chatbot using N8N + ChatGPT to answer text, audio, and image queries, helping optimize time and daily productivity.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ---
 
 ### 📫 Let's Connect
