@@ -20,14 +20,17 @@ I'm a **Data Analyst** with a background in Industrial Engineering and real-worl
 
 ## 🧰 Tools & Technologies
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-602282?style=for-the-badge&logo=microsoft&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-E65A1F?style=for-the-badge&logo=databricks&logoColor=white)
-![N8N](https://img.shields.io/badge/n8n-FE813A?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6C63FF?style=for-the-badge&logo=make&logoColor=white)
+| Tool               | Level         | Logo |
+|--------------------|---------------|------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)            | ⭐⭐⭐⭐☆ (Intermediate)   | 🐍 |
+| ![MySQL](https://img.shields.io/badge/-MySQL-005C84?logo=mysql&logoColor=white&style=flat-square)              | ⭐⭐⭐⭐☆ (Advanced)       | 🐬 |
+| ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black&style=flat-square)      | ⭐⭐⭐⭐⭐ (Advanced)       | 📊 |
+| ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat-square)     | ⭐⭐⭐⭐☆ (Proficient)     | ☁️ |
+| ![Microsoft Fabric](https://img.shields.io/badge/-Microsoft_Fabric-602282?logo=microsoft&logoColor=white&style=flat-square) | ⭐⭐⭐⭐☆ (Proficient)     | 🏗️ |
+| ![Databricks](https://img.shields.io/badge/-Databricks-E65A1F?logo=databricks&logoColor=white&style=flat-square) | ⭐⭐⭐☆ (Learning)       | 🔥 |
+| ![N8N](https://img.shields.io/badge/-n8n-FE813A?logo=n8n&logoColor=white&style=flat-square)                    | ⭐⭐⭐⭐☆ (Proficient)     | 🤖 |
+| ![Make](https://img.shields.io/badge/-Make-6C63FF?logo=make&logoColor=white&style=flat-square)                | ⭐⭐⭐⭐☆ (Proficient)     | ⚙️ |
+
 
 ---
 
