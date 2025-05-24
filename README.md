@@ -1,41 +1,48 @@
-<h1 align="center">¡Hola! Soy Kevin Gonzales 👋</h1>
+<h1 align="center">Hi there! I'm Kevin Gonzales 👋</h1>
 
 <p align="center">
-  👨‍💻 Data Analyst | Power Platform Specialist | Cloud Enthusiast (Azure & Fabric)<br>
-  📊 Apasionado por la Inteligencia de Negocios, Automatización y la IA aplicada
+  Data Analyst | Power Platform & Azure User | Passionate about AI & Automation
 </p>
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 About Me
 
-🎓 Ingeniero Industrial con experiencia desarrollando soluciones de análisis y automatización para empresas del sector retail y financiero.
+I'm a **Data Analyst** with a background in Industrial Engineering and hands-on experience developing analytics, automation, and visualization solutions across retail, fintech, and tech industries.
 
-💡 Me especializo en crear dashboards impactantes, apps personalizadas y automatizaciones inteligentes que reducen tiempos y mejoran la toma de decisiones.
-
-📌 Actualmente trabajando con:
-- Microsoft Fabric (Lakehouse, Dataflow, Pipelines)
-- Azure (ADF, Synapse, Storage)
-- Power Platform (Power BI, Power Apps, Power Automate)
-- Python, SQL, N8N, Make, Hubspot, Salesforce
+💡 My focus is turning data into decisions. I've worked with top tools like **Power BI**, **Azure Data Factory**, **Microsoft Fabric**, and **Python** to build dashboards, automate workflows, and improve business operations.
 
 ---
 
-### ⚙️ Herramientas y Tecnologías
+### 🛠️ Tools & Technologies
 
-```yaml
-Lenguajes:
-  - Python (Intermedio)
-  - SQL (Avanzado)
+- **Power Platform:** Power BI (Advanced), Power Apps, Power Automate  
+- **Languages & Analysis:** Advanced SQL, Intermediate Python, Advanced Excel  
+- **Cloud & Big Data:**
+  - Microsoft Azure: ADF, Synapse, Azure SQL, Azure Storage  
+  - Microsoft Fabric: Lakehouse, Pipelines, Dataflow  
+- **Automation & APIs:** N8N, Make, Hubspot, Salesforce, REST APIs
+- **CRM:** Hubspot, Salesforce  
+- **Others:** Power Query, SharePoint, Jotform, VBA  
 
-Cloud & BI:
-  - Microsoft Azure: ADF, Synapse, Azure SQL
-  - Microsoft Fabric: Lakehouse, Pipelines
-  - Power BI, Power Apps, Power Automate
+---
 
-Automatización:
-  - N8N, Make
-  - APIs REST
+### 📊 Highlight Projects
 
-Otras:
-  - Excel Avanzado, Power Query, VBA, SharePoint
+- **📱 Power Platform Team Handoff App:**  
+  Built an app in Power Apps to manage team handoffs, connected with Power Automate flows and secured Power BI dashboards using RLS.
+
+- **🤖 WhatsApp AI Assistant:**  
+  Created a chatbot using N8N + ChatGPT to answer text, audio, and image queries, helping optimize time and daily productivity.
+
+---
+
+### 📫 Let's Connect
+
+- 📧 kevin.gonzales.m@uni.pe  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kevin-jose-gonzales-macedo-9a771420a/)  
+- 📱 [WhatsApp](https://api.whatsapp.com/send?phone=51942886274)
+
+---
+
+⭐ Thanks for visiting my profile! I'm open to new opportunities and collaborations in data, automation, and cloud technologies.
