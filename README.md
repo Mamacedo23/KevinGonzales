@@ -42,8 +42,7 @@ Power Apps + Power Automate to manage handoffs, with secured dashboards in Power
 N8N + ChatGPT & Gemini to build an AI bot that answers messages, audio, and image queries.
 
 ---
-
-### 📫 Let's Connect!
+## 📬 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-jose-gonzales-macedo-9a771420a/)
 [![Email](https://img.shields.io/badge/Email-kevin.gonzales.m@uni.pe-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevin.gonzales.m@uni.pe)
