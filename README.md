@@ -39,12 +39,3 @@ Automatización:
 
 Otras:
   - Excel Avanzado, Power Query, VBA, SharePoint
-
----
-
-### ¿Siguiente paso?
-1. Crea tu cuenta en [GitHub](https://github.com/)
-2. Crea el repo con tu nombre de usuario exacto.
-3. Pega ese contenido en `README.md`
-
-¿Quieres que lo personalice más o traduzca al inglés también para oportunidades internacionales?
