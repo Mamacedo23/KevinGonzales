@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="30%" align="center">
-      <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" alt="Kevin Gonzales profile picture" style="border-radius: 50%;"/>
+      <img src="" width="150" alt="Kevin Gonzales profile picture" style="border-radius: 50%;"/>
     </td>
     <td width="70%">
 
