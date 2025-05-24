@@ -1,5 +1,5 @@
 <h1 align="center">Kevin Gonzales</h1>
-<p align="center">📊 Data Analyst | ☁️ Azure & Fabric Specialist | 🤖 Automation Enthusiast</p>
+<p align="center">📊 Data Analyst | ☁️ Azure & Fabric User | 🤖 Automation Enthusiast</p>
 
 ---
 
