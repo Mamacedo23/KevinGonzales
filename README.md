@@ -18,8 +18,6 @@ I'm a **Data Analyst** with a background in Industrial Engineering and real-worl
 
 ---
 
-### 🧰 Tools & Technologies
-
 ## 🧰 Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,9 +42,10 @@ N8N + ChatGPT & Gemini to build an AI bot that answers messages, audio, and imag
 ---
 ## 📬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-jose-gonzales-macedo-9a771420a/)
-[![](https://img.shields.io/badge/Email-kevin.gonzales.m@uni.pe-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevin.gonzales.m@uni.pe)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=51942886274)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-jose-gonzales-macedo-9a771420a/)
+[![Email](https://img.shields.io/badge/Email-kevin.gonzales.m@uni.pe-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevin.gonzales.m@uni.pe)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=51942886274)
+
 
 
 ---
